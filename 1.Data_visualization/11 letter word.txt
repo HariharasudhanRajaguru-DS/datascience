@@ -1,0 +1,73 @@
+VIM EDITOR COMMANDS
+-------------------------------
+to exit from VIM editor 
+:q
+write and exit from VIM editor
+:wq
+
+
+Solution _____________________>>>>>>>>>>>>>APTENODYTES<<<<<<<<<<<<<<  
+---------
+cd 1.Data_visualization/
+ 00  ls
+ 01  cd bash_tutorial-master/
+ 02  ls
+ 03  cd exercise_
+ 04  cd exercise_1
+ 05  ls
+ 06  ls -a
+ 07  cd directoryA
+ 08  ls
+ 09  cd maybe_here/
+ 10  ls
+ 11  cd ..
+ 12  cd directoryB
+ 13  ls
+ 14  vim text_file.txt 
+ 15  ls -a
+ 16  cd solution_1.1/
+ 17  ls -a ----------->.  ..  .the_second_character_is_P  the_first_character_is_A
+ 18  cd ..
+ 19  source program.sh-------->The third character is 'T'.
+ 20  cd ..
+ 21  cd directoryC
+ 22  ls -a -l  text_file length is 69 decimal value in the ASCII table is E---> the_fourth_character_is_E 
+ 23  cd ..
+ 24  cd exercise_2
+ 25  vim solution_2.1.txt----------->The fifth character of the solution is 'N'.
+ 26  create text_file cmd nano sixth_letter
+ 27  type APTEN 
+ 28  to write out ctrl+O ----------> as per instruction O is the sixth_letter
+ 29  to exit press X
+ 30  cd ..
+ 31  cd exercise_3
+ 32  mkdir solution
+ 33  cp part1/* solution/
+ 34  cp part2/* solution/
+ 35  ls -l solution/*
+ 36  -rw-r--r-- 1 hari hari 0 Mar 20  2020  solution/UIMDELGKBCYF.txt
+     -rw-r--r-- 1 hari hari 0 Mar 20  2020 'solution/___^______^_.txt'
+     character 7 and 8 would be D & Y
+ 37  cd..
+ 38  rm *Y* --- remove files which contain Y 
+ 39  ls -l -a
+     -rw-r--r-- 1 hari hari    0 Mar 20  2020 X_X_X_T_X_X_X
+     -rw-r--r-- 1 hari hari    0 Mar 20  2020 X_X_X_X_X_E_X
+     character 9 & 10 is TE
+ 40  cd ..
+ 41  cd exercise_4
+ 42  python file.py
+ 43  ------> The final character is "S". Congratulations!
+
+ 11 Letter word
+  °°°°°°°°°°°°°°°°°###########°°°°°°°°°°°°°°°°°°°°°°°°°°°
+ <_________________APTENODYTES___________________________>The genus Aptenodytes contains two extant species of penguins collectively known as "the great penguins".
+  °°°°°°°°°°°°°°°°°^^^^^^^^^^^°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+
+
+
+
+
+
+ 
