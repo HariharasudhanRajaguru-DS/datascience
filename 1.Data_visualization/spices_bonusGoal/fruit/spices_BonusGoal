@@ -1,0 +1,9 @@
+mkdir fruits
+
+touch apple apricot guava watermelon banana orange grapes
+
+ls a*>> starting_letter_a_file
+
+ls !(a*)>> no_a_starting_letter_files
+
+

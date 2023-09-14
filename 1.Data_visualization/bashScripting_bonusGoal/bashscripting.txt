@@ -1,0 +1,48 @@
+touch hello.sh
+
+vim hello.sh
+
+press esc i
+
+type echo 'Hello World!'
+
+:wq
+
+source hello.sh
+
+----->print a message given as an command-line argument
+
+vim hello.sh
+
+press esc key press i
+
+
+remove everything 
+
+type echo "$1"
+
+press esc
+
+:wq
+
+execute source hello.sh 'Hello Harish!'
+
+touch exefile.sh
+
+for arguments in for arguments in "$@"
+
+do
+	
+	sh ./hello.sh "$arguments";
+        
+	
+done
+
+press esc  
+
+:wq
+
+execute source exefile.sh one two three four five six seven eight nine ten 
+
+ 
+

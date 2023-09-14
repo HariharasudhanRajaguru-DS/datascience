@@ -1,0 +1,20 @@
+ cd 1.Data_visualization/
+ mkdir the_locked_chest_bonusGoal
+ ls
+ cd the_locked_chest_bonusGoal/
+ mkdir secret_chamber
+ ls
+ touch secret_chamber/chest
+ vim secret_chamber/chest
+ cd secret_chamber/
+ ls -l -a
+ chmod 000 chest
+ ls -l -a
+ less chest
+ cd ..
+ mv secret_chamber/ .secret_chamber/
+ ls -l -a
+ ls -l -a .secret_chamber/
+ chmod 000 .secret_chamber/chest
+ ls -l -a .secret_chamber/
+ sudo less .secret_chamber/chest

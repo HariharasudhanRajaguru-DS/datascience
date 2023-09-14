@@ -15,4 +15,5 @@ data
 # ignore config files
 *.config
 
-
+# ignore hidden files
+.*
