@@ -1,0 +1,18 @@
+# ignore data directory
+data
+
+# ignore png files
+*.png
+
+# ignore jpg files
+*.jpg
+*.jpeg
+
+
+# ignore gif files
+*.gif
+
+# ignore config files
+*.config
+
+
