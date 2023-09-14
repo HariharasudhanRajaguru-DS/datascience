@@ -1,1 +1,1 @@
-# Exercises from Spiced Academy Data science Bootcamp
+# Exercises I have tried @ Spiced Academy Data science Bootcamp, Berlin, Germany
